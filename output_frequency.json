@@ -1,0 +1,91 @@
+{
+  "subject": "DESIGN AND ANALYSIS OF ALGORITHMS",
+  "PART_A": [
+    {
+      "question": "Worst case time complexity of quick sort is..............",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Define an algorithm",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Performance of an algorithm is depends on.............. and ..............",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Prove that 3n+2=0(n)",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Define Theta notation.",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "What are the applications of greedy approach",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Kruskal's algorithm is .............. method",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Discuss knapsack problem",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Given a weighted graph where weights of all edges are unique then there is always a unique shortest path from source to a destination (True / False)",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Define minimal cost spanning tree.",
+      "frequency": 1,
+      "images": null
+    }
+  ],
+  "PART_B": [
+    {
+      "question": "Solve the recurrence relation using Substitution Method T(n) =  \\begin{cases} 1, & n = 1 \\ 2T(n/2) + n, & n > 1 \\end{cases}",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Sort the given list using merge sort [50, 25, 6, 20, 60, 30, 90, 10]",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Write an algorithm to find out the maximum and minimum of array elements",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Calculate the minimum cost spanning tree of the following graph using Prim's algorithm.",
+      "frequency": 1,
+      "images": [
+        "imgs/img_in_image_box_169_297_436_463.jpg"
+      ]
+    },
+    {
+      "question": "Write an algorithm for the job sequencing problem using greedy approach.",
+      "frequency": 1,
+      "images": null
+    },
+    {
+      "question": "Apply the Dijkstra's algorithm to the following graph to find the single source shortest path. Consider vertex 'a' as the source vertex.",
+      "frequency": 1,
+      "images": [
+        "imgs/img_in_image_box_157_613_403_782.jpg"
+      ]
+    }
+  ]
+}

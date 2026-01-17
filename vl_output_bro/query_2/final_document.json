@@ -1,0 +1,117 @@
+{
+  "subject": null,
+  "PART_A": [
+    {
+      "qno": "1a",
+      "question": "Worst case time complexity of quick sort is..............",
+      "image": null
+    },
+    {
+      "qno": "1b",
+      "question": "Define an algorithm",
+      "image": null
+    },
+    {
+      "qno": "1c",
+      "question": "Performance of an algorithm is depends on.............. and ..............",
+      "image": null
+    },
+    {
+      "qno": "1d",
+      "question": "Prove that 3n+2=\u0398(n)",
+      "image": null
+    },
+    {
+      "qno": "1e",
+      "question": "Define Theta notation.",
+      "image": null
+    },
+    {
+      "qno": "1f",
+      "question": "What are the applications of greedy approach",
+      "image": null
+    },
+    {
+      "qno": "1g",
+      "question": "Kruskal's algorithm is.............. method",
+      "image": null
+    },
+    {
+      "qno": "1h",
+      "question": "Discuss knapsack problem",
+      "image": null
+    },
+    {
+      "qno": "1i",
+      "question": "Given a weighted graph where weights of all edges are unique then there is always a unique shortest path from source to a destination (True / False)",
+      "image": null
+    },
+    {
+      "qno": "1j",
+      "question": "Define minimal cost spanning tree.",
+      "image": null
+    }
+  ],
+  "PART_B": [
+    {
+      "qno": "2",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Solve the recurrence relation using Substitution Method\n\nT(n) =  \\begin{cases} 1, & n = 1 \\\\ 2T(n/2) + n, & n > 1 \\end{cases}",
+          "image": null
+        }
+      ]
+    },
+    {
+      "qno": "3",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Sort the given list using merge sort [50, 25, 6, 20, 60, 30, 90, 10]",
+          "image": null
+        }
+      ]
+    },
+    {
+      "qno": "4",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Write an algorithm to find out the maximum and minimum of array elements using divide and conquer method. Derive its time complexity.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "qno": "5",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Calculate the minimum cost spanning tree of the following graph using Prim's algorithm.",
+          "image": "imgs/img_in_image_box_88_1326_386_1511.jpg"
+        }
+      ]
+    },
+    {
+      "qno": "6",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Write an algorithm for the job sequencing problem using greedy approach.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "qno": "7",
+      "subquestions": [
+        {
+          "subq": "a",
+          "question": "Apply the Dijkstra's algorithm to the following graph to find the single source shortest path. Consider vertex 'a' as the source vertex.",
+          "image": "imgs/img_in_image_box_73_1676_350_1866.jpg"
+        }
+      ]
+    }
+  ]
+}
