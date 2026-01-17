@@ -28,7 +28,9 @@ saved_docs = st.session_state.saved_docs
 st.set_page_config(page_title="Exam Pipeline", layout="wide")
 st.title("📘 Exam Question Processing Pipeline")
 
-api_key = "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"
+import os
+
+api_key = os.getenv("GROQ_API_KEY")
 
 num_docs = st.number_input(
     "Number of documents",

@@ -85,7 +85,7 @@ import axios from "axios";
 import DocumentUploader from "./components/DocumentUploader.vue";
 
 const API_URL = "http://localhost:8000";
-const apiKey = "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";
+const apiKey = import.meta.env.VITE_GROQ_API_KEY;
 
 const numDocs = ref(1);
 const savedDocs = ref([]);
